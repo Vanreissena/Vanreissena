@@ -45,6 +45,14 @@ Me chamo Vanessa Reis, tenho 30 anos e sou natural de São Paulo. Sou formada em
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+  align="left" 
+  alt="Power BI" 
+  title="Power BI"  
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
+/>
 
 
 <br/>
