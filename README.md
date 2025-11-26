@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Vanessa Reis
 
-**`Devops`**
+**`Devops | Engenheira de Dados`**
 
 Me chamo Vanessa Reis, tenho 30 anos e sou natural de São Paulo. Sou formada em Engenharia Mecânica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu GitHub.
 
